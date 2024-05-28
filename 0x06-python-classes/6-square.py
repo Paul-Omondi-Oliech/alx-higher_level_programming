@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-#!/ 6-square.py by Paul Oliech
 """My square module"""
 
 
